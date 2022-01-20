@@ -1,4 +1,4 @@
-# Homework for the course of Concurrency Programming, ITMO CT, Autumn 2020
+# Homework for the course of Concurrency Programming, ITMO CT, Autumn 2021
 
 # Лекции:
 
